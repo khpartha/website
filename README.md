@@ -2,8 +2,8 @@
 A fully functional e-commerce website built as part of a personal project to explore web development, online shopping systems, and responsive design. This small protype i used for developing a small ecommerce business. I build for my personal business.
 
 ## Features
- **Browse and search products**
- **Add to cart, update quantity, remove items**
+-  Browse and search products
+-  Add to cart, update quantity, remove items**
 
 
 ## Built With##
@@ -12,6 +12,6 @@ A fully functional e-commerce website built as part of a personal project to exp
 ## Future Improvements
 
  **Implement AI**
- **Add reviews and ratings system**
+ Add reviews and ratings system
 
 
